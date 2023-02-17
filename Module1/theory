@@ -1,0 +1,25 @@
+ISTQB => International Software Testing Qualifications Board
+
+
+Testing => 
+Software Testing is a process used to identify the correctness,
+completeness, and quality of developed computer software.
+
+
+Testing Process:
+Requirements are match or not
+gap,Error,Missing Requirements
+
+it's a process of validating and verifying the data
+
+Activity :Single Unit(Action)
+Process : Multiple Action
+Lifecycle :SDLC[software development lifecycle] ->verify
+	  :STLC[software testing lifecycle] ->validate
+
+When to test ?->
+Why Testing is necessary?->
+When to Start->
+When to Stop-> 
+7 Key Principle
+
