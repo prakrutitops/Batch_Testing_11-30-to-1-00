@@ -118,3 +118,23 @@ rollback;*/
 ----------------------------Theory------------------------------
 21.join:
 SELECT id  FROM cds INNER JOIN tops  ON cds.id = tops.id
+
+==================================================================
+
+Scalar Functions:
+UCASE,LCASE,ROUND,NOW,MID,LENGTH
+
+Agrregate Functions:
+MAX,MIN,SUM,AVG:
+SELECT  MAX(product_price) FROM products
+
+DBMS
+RDBMS
+
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+
+
+
