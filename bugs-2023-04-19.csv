@@ -1,0 +1,2 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+1,"major","High","Windows","anand@gmail.com","VERIFIED","FIXED","it displays diffrent data according to Mobile screen resolutuion"
